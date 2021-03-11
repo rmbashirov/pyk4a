@@ -1,0 +1,17 @@
+/extern/*
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.idea
+*/.idea/*
+
+__pycache__
+*/__pycache__/*
+
+.vscode
+*/.vscode/*
+
+/pyk4a.egg-info/*
+/dist/*
+/build/*
